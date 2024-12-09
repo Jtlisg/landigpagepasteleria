@@ -100,7 +100,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-color: #000000;
+  background-color: #171616;
 }
 
 .sub_page .hero_area {
@@ -247,7 +247,7 @@ a:focus {
           align-items: center;
   position: relative;
   padding: 45px 0 75px 0;
-  background-color: #000000;
+  background-color: #b76365;
 }
 
 .slider_section .row {
